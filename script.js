@@ -6,7 +6,7 @@ class CardProfile extends React.Component {constructor(...args) {super(...args);
       musicList: [{ name: 'Free Me', author: 'Neffex', img: 'images/something.png', audio: 'images/free-me.mp3', duration: '2:17' },
       { name: 'Neffex Cold', author: 'Neffex', img: 'images/cold.jpg', audio: 'mp3/cold.mp3', duration: '3:07' },
       { name: 'Careless', author: 'Neffex', img: 'images/careless.jpg', audio: 'mp3/careless.mp3', duration: '4:56' },
-      { name: 'NCS Warriors', author: 'NCS', img: 'images/ncs.jpg', audio: 'mp3/NCS-Warriors.mp3', duration: '3:49' }],
+      { name: 'NCS Warriors', author: 'NCS', img: 'images/NCS.jpg', audio: 'mp3/NCS-Warriors.mp3', duration: '3:49' }],
       pause: false });_defineProperty(this, "changeCurrentTime",
 
 
